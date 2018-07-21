@@ -3,6 +3,12 @@ A C# library for processing recurrent neural networks. Version 1.
 
 This RNN implementation was created as my Masters project. The files in this project are split into two projects: A library that contains the recurrent neural network as well as some data preperation classes, and a WPF project that contains an example scenario that can be used to test the RNN. The example scenario uses the RNN to classify excerpts from books into different genres. Below I've included the Detailed Implementation section of the paper written for the project as general guide on how to use the different projects and classes contained in this repository. 
 
+Mission Statement
+
+The goal of this project was to create a C# implementation of a recurrent neural network. Although there are already a few implementations of recurrent neural networks, many tend to ignore readability and only one is in C#. To help diversify developer’s options, this project will create a recurrent neural network library that contains enough functionality to allow easy implementations of recurrent neural networks in C#. The created recurrent neural network will be tested by attempting to classify excerpts from books into genres. The books used in this project will be taken from the Project Gutenberg dataset (http://www.gutenberg.org/). 
+This project is quite different from a standard machine learning projects that would primarily focus on building upon open source libraries and experimental results. The focus of this project is to tackle every facet of a recurrent neural networks creation down to the smallest detail. This was done to gain a more in depth understanding of the concepts behind recurrent neural networks, as well as the optimization methods needed to run an RNN.  
+
+
 Detailed Implementation
 
 This project was implemented in Visual Studio 2017 as WPF desktop application and as two C# libraries. The WPF application handled the GUI as well as the initial data processing. The C# library contained the code for the recurrent neural network itself, as well as utility classes that help process the RNN. This project can be split into four main segments: The Matrix and Vector classes, the Recurrent Neural Network class, the Data Preparation class, and the Main Window class. The Matrix, Vector, and RNN classes are contained within the library while the Main Window class is contained in the WPF application. The Data Preparation class is contained in a separate library that was created to help prepare the data for the RNN.
