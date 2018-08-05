@@ -3,3 +3,8 @@ E:\My Documents\Projects\Recurrent Neural Network Git\RecurrentNeuralNetworkLibr
 E:\My Documents\Projects\Recurrent Neural Network Git\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\obj\Debug\RecurrentNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
 E:\My Documents\Projects\Recurrent Neural Network Git\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\obj\Debug\RecurrentNeuralNetworkLibrary.dll
 E:\My Documents\Projects\Recurrent Neural Network Git\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\obj\Debug\RecurrentNeuralNetworkLibrary.pdb
+E:\My Documents\Projects\Recurrent Neural Network Git\Recurrent-Neural-Network-CSharp\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\bin\Debug\RecurrentNeuralNetworkLibrary.dll
+E:\My Documents\Projects\Recurrent Neural Network Git\Recurrent-Neural-Network-CSharp\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\bin\Debug\RecurrentNeuralNetworkLibrary.pdb
+E:\My Documents\Projects\Recurrent Neural Network Git\Recurrent-Neural-Network-CSharp\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\obj\Debug\RecurrentNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+E:\My Documents\Projects\Recurrent Neural Network Git\Recurrent-Neural-Network-CSharp\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\obj\Debug\RecurrentNeuralNetworkLibrary.dll
+E:\My Documents\Projects\Recurrent Neural Network Git\Recurrent-Neural-Network-CSharp\RecurrentNeuralNetworkLibrary\RecurrentNeuralNetworkLibrary\obj\Debug\RecurrentNeuralNetworkLibrary.pdb

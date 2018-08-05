@@ -41,9 +41,9 @@ namespace Test_WPF_Project
         /// <summary>
         /// The percent of the data to use as training data
         /// </summary>
-        private int PercentTrainingData = 10;
+        private int PercentTrainingData = 50;
 
-        private int NumberOfEpochs = 40;
+        private int NumberOfEpochs = 20;
 
         /// <summary>
         /// The recurrent neural network instance being used by the application
